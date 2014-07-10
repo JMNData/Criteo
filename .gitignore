@@ -34,3 +34,11 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+data/test/test.csv
+data/train.zip
+data/random_submission.zip
+data/random_submission/random_submission.csv
+data/results.csv
+data/results.zip
+data/test.zip
