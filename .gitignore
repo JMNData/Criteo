@@ -42,3 +42,9 @@ data/random_submission/random_submission.csv
 data/results.csv
 data/results.zip
 data/test.zip
+data/resultsES.zip
+data/resultsES.csv
+model_4mmrecordstraining.rda
+.Rhistory
+.RData
+*.Rhistory
